@@ -1,0 +1,10 @@
+.container_companies{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container_companies img{
+    width: 200px;
+    height: auto;
+    padding: 23px;
+
+}

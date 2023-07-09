@@ -1,0 +1,9 @@
+.white_gradient{
+    top: 20px;
+    z-index: 2;
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    background-color: rgb(236, 224, 224);
+    filter: blur(100px);
+}

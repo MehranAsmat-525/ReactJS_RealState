@@ -1,0 +1,17 @@
+.h_wrapper {
+    background: black;
+    color: white;
+    padding: 1.6rem 2.7rem;
+}
+.h_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.h_menu{
+    display: flex;
+    gap: 2rem;
+}
+.h_menu:hover{
+    cursor: pointer;
+}
